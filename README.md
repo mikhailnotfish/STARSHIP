@@ -2,6 +2,9 @@
 Hi! this is my project, starship EDF!
  
 this is just the planning phase of the project, as i do not have even remotely close to enough funds to build it.
+
+<img width="2200" height="1100" alt="preview(1)" src="https://github.com/user-attachments/assets/b55b5d65-65ea-492f-8d29-33355f03d366" />
+
  
 # what it is 
 essentially, this is a miniaturized version, of space x's STARSHIP rocket, at approximately 1:90 scale. 
@@ -34,6 +37,8 @@ my model, at 1:90 scale has about 2-3 CENTIMETERS of error. GPS is not good at p
 the gps towers, and chips, and antennas, and etc account for 64% OF THE TOTAL COST OF THIS PROJECT. i have considered cheaper alternatives, such as raspberry pi AI camera detection, but i ruled them all out because when the starship is falling through the sky at 50 kilometers an hour, the video is blurry and very fast. AI cannot work with the same speed as a computer, and this is why the project is so expensive: the GPS.
 
 # MECHZILLA
+<img width="2100" height="1000" alt="mechzilla_preview" src="https://github.com/user-attachments/assets/0c97e640-5023-4c1c-b0f8-02d6094eb10a" />
+
 i wont lie to you. that 2.8 grand? isnt even the full cost of this project. this is just the cost of the drone. the MECHZILLA tower, has its own GPS equipment and tower. the starship cannot work without the ground gps equipment, and therefore needs mechzilla to fly. i have split the project into mechzilla and starship to reduce the cost of each project.
 
 # stages
