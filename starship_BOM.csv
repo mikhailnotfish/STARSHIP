@@ -1,0 +1,31 @@
+item,part,supplier,qty,unit_price,currency,unit_price_aud,line_total_aud,link
+1,XFly Galaxy X6 64 mm 12-blade EDF with 2300 kV motor,Turbines-RC,1,55.90,USD,79.66,79.66,https://www.turbines-rc.com/en/edf-units/4834-edf-ducted-fan-xfly-galaxy-x6-xfly-model-64mm-12-blades-6s-motor-2300kv.html
+2,Dualsky DSB42256 Summit 60A Slim 6S ESC,Metro Hobbies,1,104.99,AUD,104.99,104.99,https://www.metrohobbies.com.au/products/dualsky-dsb42256-summit-60a-slim-6s-brushless-esc
+3,"RDQ 6S 1000 mAh 100C LiPo battery, XT60",Race Day Quads,1,38.49,USD,54.85,54.85,https://www.racedayquads.com/products/rdq-series-22-2v-6s-1000mah-100c-lipo-battery-xt60
+4,9g metal gear micro servo 1.8 kg (flap servo),Core Electronics,4,10.16,AUD,10.16,40.64,https://core-electronics.com.au/9g-metal-gear-micro-servo-1-8kg.html
+5,Emax ES9051 digital mini servo (vane servo),Aloft Hobbies,4,6.75,USD,9.62,38.48,https://alofthobbies.com/emax-es-9051.html
+6,Matek H743 Mini V3 flight controller,HobbyRC (UK),1,89.55,GBP,177.04,177.04,https://hobbyrc.co.uk/matek-h743-mini-flight-controller
+7,"SiK telemetry radio kit V3, 915 MHz, 100 mW (2 radios)",Core Electronics,1,289.95,AUD,289.95,289.95,https://core-electronics.com.au/sik-telemetry-radio-v3-915mhz-100mw.html
+8,RadioMaster XR1 Nano ExpressLRS receiver,FPV Faster,1,22.99,AUD,22.99,22.99,https://www.fpvfaster.com.au/products/radiomaster-xr1-nano-multi-frequency-expresslrs-elrs-dual-band-receiver
+9,"SparkFun GPS-RTK-SMA breakout (u-blox ZED-F9P), ship receiver",Core Electronics,1,419.95,AUD,419.95,419.95,https://core-electronics.com.au/sparkfun-gps-rtk-sma-breakout-zed-f9p-qwiic.html
+10,"GNSS multi-band L1/L2/L5 helical antenna, SMA, ship",Core Electronics,1,229.95,AUD,229.95,229.95,https://core-electronics.com.au/gnss-multi-band-l1l2l5-helical-antenna-sma.html
+11,Carbon fibre tube 3 x 2 mm (metres),Easy Composites (UK),2,2.45,GBP,4.84,9.69,https://www.easycomposites.co.uk/3mm-pultruded-carbon-fibre-tube
+12,"PolyLite LW-PLA white 1.75 mm, 800 g spool",Core Electronics,1,54.95,AUD,54.95,54.95,https://core-electronics.com.au/polylite-lw-pla-white-175mm-800g-spool.html
+13,RadioMaster Pocket ELRS transmitter,FPV Faster,1,124.95,AUD,124.95,124.95,https://www.fpvfaster.com.au/products/radiomaster-pocket-radio-transmitter-controller-edgetx-cc2500-elrs-mode-2
+14,"18650 Li-ion cell 3400 mAh, protected (transmitter)",Core Electronics,2,13.35,AUD,13.35,26.70,https://core-electronics.com.au/18650-battery-pcm-positive-cap.html
+15,SkyRC iMax B6 V2 LiPo balance charger,Core Electronics,1,54.60,AUD,54.60,54.60,https://core-electronics.com.au/skyrc-imax-b6-battery-charger.html
+16,"Mean Well GST60A12 12 V 5 A power supply, 2.5 mm",Core Electronics,1,46.05,AUD,46.05,46.05,https://core-electronics.com.au/catalog/product/view/sku/CE06417
+17,2 m IEC C13 mains lead,Core Electronics,1,10.20,AUD,10.20,10.20,https://core-electronics.com.au/2m-iec-c13-10a-3-pin-black-appliance-mains-lead.html
+18,"Thrust stand: load cell, amplifier and mounting",Estimate,1,40.00,AUD,40.00,40.00,
+19,Wiring and connectors,Estimate,1,20.00,AUD,20.00,20.00,
+20,Servo linkages and pushrods,Estimate,1,15.00,AUD,15.00,15.00,
+21,5 V regulator,Estimate,1,8.00,AUD,8.00,8.00,
+22,Fasteners and glue,Estimate,1,15.00,AUD,15.00,15.00,
+23,Foam board for jet vanes,Estimate,1,5.00,AUD,5.00,5.00,
+,Parts subtotal,,,,,,1888.63,
+,Crash spares (50% of ship hardware and flight computer),,,,,,436.61,
+,Overseas shipping and GST allowance (25% of overseas items),,,,,,89.93,
+,Local shipping,,,,,,30.00,
+,Subtotal before contingency,,,,,,2445.17,
+,Contingency,,,,,,366.78,
+,TOTAL (AUD),,,,,,2811.95,
